@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-workers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "mongodb": "^3.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
